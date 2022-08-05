@@ -2,7 +2,9 @@
 
 <p align="center">List of Tamiya toys I already own</p>
 
-## ![Mini 4WD](https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/h2-mini-4wd.gif)
+<h2>
+<img height="19" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> Mini 4WD
+</h2>
 
 <img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-19447.jpg" />
 
@@ -23,7 +25,9 @@ Item No: [19447](https://www.tamiya.com/english/products/19447/index.htm)
 
 ★ R6/AA/UM3 batteries (x2)
 
-## ![Scale Models](https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/h2-scale-models.gif)
+<h2>
+<img height="19" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> Scale Models
+</h2>
 
 <img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-24065.jpg" />
 
