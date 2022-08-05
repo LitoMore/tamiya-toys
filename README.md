@@ -2,9 +2,30 @@
 
 <p align="center">List of Tamiya toys I already own</p>
 
+## ![Mini 4WD](https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/h2-mini-4wd.gif)
+
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-19447.jpg" />
+
+### Beak Stinger G (AR Chassis)
+
+Fully-Cowled Mini 4WD Series No.47\
+Item No: [19447](https://www.tamiya.com/english/products/19447/index.htm)
+
+#### Specifications
+
+★ Length: 155mm\
+★ Width: 97mm\
+★ Height: 44mm\
+★ Includes motor\
+★ Easy snap-together assembly
+
+#### Separately Required Items
+
+★ R6/AA/UM3 batteries (x2)
+
 ## ![Scale Models](https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/h2-scale-models.gif)
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-24065.jpg">
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-24065.jpg" />
 
 ### Porsche 959
 
