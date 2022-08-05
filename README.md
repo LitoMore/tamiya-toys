@@ -13,20 +13,17 @@
 Fully-Cowled Mini 4WD Series No.47\
 Item No: [19447](https://www.tamiya.com/english/products/19447/index.htm)
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="left"><strong>Specifications</strong></th>
-      <th align="left"><strong>Separately Required Items</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="left" valign="top">★ Length: 155mm<br>★ Width: 97mm<br>★ Height: 44mm<br>★ Includes motor<br>★ Easy snap-together assembly</td>
-      <td align="left" valign="top">★ R6/AA/UM3 batteries (x2)</td>
-    </tr>
-  </tbody>
-</table>
+#### Specifications
+
+★ Length: 155mm\
+★ Width: 97mm\
+★ Height: 44mm\
+★ Includes motor\
+★ Easy snap-together assembly
+
+#### Separately Required Items
+
+★ R6/AA/UM3 batteries (x2)
 
 <h2>
   <img height="18" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> SCALE MODELS
