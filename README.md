@@ -25,6 +25,8 @@ Item No: [19447](https://www.tamiya.com/english/products/19447/index.htm)
 
 ★ R6/AA/UM3 batteries (x2)
 
+<br>
+
 <h2>
   <img height="18" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> SCALE MODELS
 </h2>
@@ -41,6 +43,8 @@ Item No: [24065](https://www.tamiya.com/english/products/24065/index.htm)
 ★ Features detailed depictions of the 6-cylinder boxer engine, double wishbone suspension and more. Engine hood can be opened after completion.\
 ★ A busy interior includes bucket seats, pedals and much more.\
 ★ Solid synthetic rubber tires give an extra level of detail.
+
+<br>
 
 ## Related
 
