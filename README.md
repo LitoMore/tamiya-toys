@@ -45,5 +45,5 @@ Item No: [24065](https://www.tamiya.com/english/products/24065/index.htm)
 ## Related
 
 - [Games](https://github.com/LitoMore/games) - My video games
-- [LEGO® Bricks](https://github.com/LitoMore/lego-bricks) - My My LEGO® Bricks
+- [LEGO® Bricks](https://github.com/LitoMore/lego-bricks) - My LEGO® Bricks
 - [Transformers](https://github.com/LitoMore/transformers) - My Transformers toys
