@@ -25,6 +25,25 @@ Item No: [19447](https://www.tamiya.com/english/products/19447/index.htm)
 
 ★ R6/AA/UM3 batteries (x2)
 
+<img align="right" height="300" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-19452.jpg" />
+
+### Brocken Gigant Premium (FM-A Chassis)
+
+Fully-Cowled Mini 4WD Series No.52\
+Item No: 19452
+
+**Specifications**
+
+★ Length: 156mm\
+★ Width: 97mm\
+★ Height: 38mm\
+★ Includes motor\
+★ Easy snap-together assembly
+
+**Separately Required Items**
+
+★ R6/AA/UM3 batteries (x2)
+
 <h2>
   <img height="18" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> SCALE MODELS
 </h2>
