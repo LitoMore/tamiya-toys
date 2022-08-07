@@ -6,7 +6,7 @@
   <img height="18" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> MINI 4WD
 </h2>
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-19447.jpg" />
+<img align="right" width="300" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-19447.jpg" />
 
 ### Beak Stinger G (AR Chassis)
 
@@ -21,7 +21,7 @@ Item No: [19447](https://www.tamiya.com/english/products/19447/index.htm)
 ★ Includes motor\
 ★ Easy snap-together assembly
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-19452.jpg" />
+<img align="right" width="300" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-19452.jpg" />
 
 ### Brocken Gigant Premium (FM-A Chassis)
 
