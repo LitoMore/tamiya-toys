@@ -30,7 +30,7 @@ Item No: [19447](https://www.tamiya.com/english/products/19447/index.htm)
 ### Brocken Gigant Premium (FM-A Chassis)
 
 Fully-Cowled Mini 4WD Series No.52\
-Item No: 19452
+Item No: [19452](https://www.tamiya.com/english/products/19452/index.htm)
 
 **Specifications**
 
