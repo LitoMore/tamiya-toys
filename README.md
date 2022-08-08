@@ -29,7 +29,7 @@ Fully-Cowled Mini 4WD Series No.52\
 Item No: [19452](https://www.tamiya.com/english/products/19452/index.htm)
 
 **Specifications**
-~
+
 ★ Length: 156mm\
 ★ Width: 97mm\
 ★ Height: 38mm\
