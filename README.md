@@ -66,7 +66,7 @@ Minimal self-discharging enables long-lasting battery life.
 _※ Battery life period may change according to usage conditions._
 
 <h2>
-  <img height="18" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> SCALE MODELS
+  <img height="18" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> Scale Models
 </h2>
 
 <img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-24065.jpg" />
@@ -81,6 +81,21 @@ Item No: [24065](https://www.tamiya.com/english/products/24065/index.htm)
 ★ Features detailed depictions of the 6-cylinder boxer engine, double wishbone suspension and more. Engine hood can be opened after completion.\
 ★ A busy interior includes bucket seats, pedals and much more.\
 ★ Solid synthetic rubber tires give an extra level of detail.
+
+<h2>
+  <img height="18" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> Finishing Materials
+</h2>
+
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-87062.jpg" />
+
+### Tamiya CA Cement (Quick Type)
+
+Finishing Materials no.62\
+Item No: [87062](https://www.tamiya.com/english/products/87062/index.htm)
+
+This quick-hardening cement is perfect for rapidly attaching both plastic and metal parts.
+The container features a single-push type applicator designed to apply cement one drop at a time with ease and precision.
+Contents: 2g.
 
 ## Related
 
