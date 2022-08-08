@@ -3,7 +3,7 @@
 <p align="center">List of Tamiya toys I already own</p>
 
 <h2>
-  <img height="18" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> MINI 4WD
+  <img height="18" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> Fully Cowled Mini 4WD Series
 </h2>
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-19447.jpg" />
@@ -29,12 +29,28 @@ Fully-Cowled Mini 4WD Series No.52\
 Item No: [19452](https://www.tamiya.com/english/products/19452/index.htm)
 
 **Specifications**
-
+~
 ★ Length: 156mm\
 ★ Width: 97mm\
 ★ Height: 38mm\
 ★ Includes motor\
 ★ Easy snap-together assembly
+
+<h2>
+  <img height="18" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> Mini 4WD Grade-Up Parts
+</h2>
+
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15420.jpg" />
+
+### Neochamp Mini 4WD Ni-MH Battery (2pcs.)
+
+Grade-Up Parts Series no.420\
+Item No: [15420](https://www.tamiya.com/english/products/15420neochamp/index.htm)
+
+These rechargeable Ni-MH batteries are lightweight (19g each) and can be recharged approximately 2,000 times.
+Minimal self-discharging enables long-lasting battery life.
+
+_※ Battery life period may change according to usage conditions._
 
 <h2>
   <img height="18" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> SCALE MODELS
