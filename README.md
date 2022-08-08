@@ -6,12 +6,18 @@
   <img height="18" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> Fully Cowled Mini 4WD Series
 </h2>
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-19447.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-19447.jpg" />
 
 ### Beak Stinger G (AR Chassis)
 
 Fully-Cowled Mini 4WD Series No.47\
 Item No: [19447](https://www.tamiya.com/english/products/19447/index.htm)
+
+**Linking the Classic and the Modern**
+
+This plastic Mini 4WD model assembly kit creates the Beak Stinger G car which appears as the hero's rival machine in the popular Japanese comic "Let's & Go!! Return Racers!!".
+It is a fascinating fusion of inspiration from three classic 1990s Mini 4WD racers - the Brocken Gigant, Ray Stinger and Beak Spider.
+A silver ABS resin body comes with metallic stickers for decoration.
 
 **Specifications**
 
@@ -21,12 +27,19 @@ Item No: [19447](https://www.tamiya.com/english/products/19447/index.htm)
 ★ Includes motor\
 ★ Easy snap-together assembly
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-19452.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-19452.jpg" />
 
 ### Brocken Gigant Premium (FM-A Chassis)
 
 Fully-Cowled Mini 4WD Series No.52\
 Item No: [19452](https://www.tamiya.com/english/products/19452/index.htm)
+
+**A Premium Racer**
+
+This Mini 4WD model assembly kit creates a Premium version of the Brocken Gigant, which was driven by Kondo Gen in the Japanese Mini 4WD cartoon "Let's & Go!!".
+With unique fenders that sandwich rather than cover the wheels, and pipe frame sideguards, it has a truly unique look.
+The front cowl is a separate, removable component.
+Stickers are included in the kit to recreate headlights and other design motifs.
 
 **Specifications**
 
