@@ -3,7 +3,7 @@
 <p align="center">List of Tamiya toys I already own</p>
 
 <h2>
-  <img height="18" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> Fully Cowled Mini 4WD Series
+  <img height="18" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> Mini 4WD
 </h2>
 
 <img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-19447.jpg" />
