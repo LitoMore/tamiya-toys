@@ -70,7 +70,7 @@ Stickers are included in the kit to recreate headlights and other design motifs.
 ★ Easy snap-together assembly
 
 <h2>
-  <img height="18" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> Mini 4WD Grade-Up Parts
+  <img height="18" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> Mini 4WD Accessories
 </h2>
 
 <img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15420.jpg" />
@@ -84,10 +84,6 @@ These rechargeable Ni-MH batteries are lightweight (19g each) and can be recharg
 Minimal self-discharging enables long-lasting battery life.
 
 _※ Battery life period may change according to usage conditions._
-
-<h2>
-  <img height="18" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> Limited Edition Mini 4WD Product
-</h2>
 
 <img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-94893.jpg" />
 
