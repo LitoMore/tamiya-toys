@@ -6,6 +6,19 @@
   <img height="18" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> Mini 4WD
 </h2>
 
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-19438.jpg" />
+
+### Ray Stinger Premium (Super-II Chassis)
+
+Fully-Cowled Mini 4WD Series No.38\
+Item No: 19438
+
+**Sting when you're Winning**
+
+This is a premium version of the Ray Stinger, a machine which appeared in the Japanese cartoon "Let's and Go!"as the car of one of the heroes' rivals, Rei Hijikata.
+The body of the racer has a stylized front cowl dubbed the "stinger cowl", plus other exciting features such as body side ducts and jet aero duct on the rear cowl.
+The silver scheme is accented perfectly by metallic stickers inspired by the design seen in the original cartoon.
+
 <img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-19447.jpg" />
 
 ### Beak Stinger G (AR Chassis)
