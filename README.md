@@ -11,7 +11,7 @@
 ### Ray Stinger Premium (Super-II Chassis)
 
 Fully-Cowled Mini 4WD Series No.38\
-Item No: 19438
+Item No: [19438](https://www.tamiya.com/english/products/19438/index.htm)
 
 **Sting when you're Winning**
 
