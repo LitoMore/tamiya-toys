@@ -86,6 +86,30 @@ Minimal self-discharging enables long-lasting battery life.
 _※ Battery life period may change according to usage conditions._
 
 <h2>
+  <img height="18" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> Limited Edition Mini 4WD Product
+</h2>
+
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-94893.jpg" />
+
+### Mini 4WD Oval Home Circuit (Two-Level Lane Change) (Red/White/Blue)
+
+Limited Edition Mini 4WD Product\
+Item No: [94893](https://www.tamiya.com/english/products/94893_oval_circuit/index.htm)
+
+**Handy Circuit**
+
+This special edition Oval Home Circuit features an eye-catching color combination of Red, White, and Blue.
+The lane change section comes with a transparent cover to help prevent cars from flying off the track.
+Fourteen sections are included and additional separately available Mini 4WD circuit sections can be connected to allow you to make a larger circuit.
+
+**Specifications**
+
+★ Course Length: 3 laps = approximately 10m\
+★ Fence Height: 5cm\
+★ Assembled Course Dimensions: 216cm × 120cm\
+★ Made from soft plastic.
+
+<h2>
   <img height="18" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> Scale Models
 </h2>
 
