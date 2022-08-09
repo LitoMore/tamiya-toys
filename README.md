@@ -19,6 +19,13 @@ This is a premium version of the Ray Stinger, a machine which appeared in the Ja
 The body of the racer has a stylized front cowl dubbed the "stinger cowl", plus other exciting features such as body side ducts and jet aero duct on the rear cowl.
 The silver scheme is accented perfectly by metallic stickers inspired by the design seen in the original cartoon.
 
+**Specifications**
+
+★ Length: 150mm\
+★ Width: 97mm\
+★ Includes motor\
+★ Snap-together easy assembly
+
 <img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-19447.jpg" />
 
 ### Beak Stinger G (AR Chassis)
