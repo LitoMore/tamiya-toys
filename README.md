@@ -73,6 +73,19 @@ Stickers are included in the kit to recreate headlights and other design motifs.
   <img height="18" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> Mini 4WD Accessories
 </h2>
 
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15354.jpg" />
+
+### Mini 4WD PRO Racer's Box
+
+Grade-Up Parts Series no.354\
+Item No: [15354](https://www.tamiya.com/english/products/15354/index.htm)
+
+★ This box was designed especially for the Mini 4WD racer!\
+★ The various internal sections expand once the box is opened, allowing quick access to your parts.\
+★ Dividers can be moved depending upon the size of the parts you carry.\
+★ The bottom section can hold up to three fully hopped-up Mini 4WD cars.\
+★ Dimensions: 355mm x 205mm x 145mm
+
 <img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15420.jpg" />
 
 ### Neochamp Mini 4WD Ni-MH Battery (2pcs.)
@@ -84,6 +97,16 @@ These rechargeable Ni-MH batteries are lightweight (19g each) and can be recharg
 Minimal self-discharging enables long-lasting battery life.
 
 _※ Battery life period may change according to usage conditions._
+
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15422.jpg" />
+
+### Mini 4WD Pinion Puller (Blue)
+
+Grade-Up Parts Series no.422\
+Item No: [15422](https://www.tamiya.com/english/products/15422pinion_puller/index.htm)
+
+★ By simply turning the screw, the 8T pinion gear can be easily removed from the motor shaft.\
+★ Compatible with brass and resin pinion gears as well as any Type-130 motor.
 
 <img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-94893.jpg" />
 
