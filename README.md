@@ -73,6 +73,39 @@ Stickers are included in the kit to recreate headlights and other design motifs.
   <img height="18" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> Mini 4WD Accessories
 </h2>
 
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15318.jpg" />
+
+### Sprint-Dash Motor
+
+Grade-Up Parts Series no.318\
+Item No: [15318](https://www.tamiya.com/english/products/15318/index.htm)
+
+★ Input voltage: 2.4-3.0V\
+★ RPM: 20,700-27,200\
+★ Current consumption: 2.8-3.8A
+
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15485.jpg" />
+
+### Rev-Tuned 2 Motor
+
+Grade-Up Parts Series no.485\
+Item No: [15485](https://www.tamiya.com/english/products/15484_15489/index.htm)
+
+★ Input voltage: 2.4-3.0V\
+★ RPM: 13,400-15,200\
+★ Current consumption: 1.6-2.0A
+
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15486.jpg" />
+
+### Atomic-Tuned 2 Motor
+
+Grade-Up Parts Series no.486\
+Item No: [15486](https://www.tamiya.com/english/products/15484_15489/index.htm)
+
+★ Input voltage: 2.4-3.0V\
+★ RPM: 12,700-14,900\
+★ Current consumption: 1.8-2.2A
+
 <img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15354.jpg" />
 
 ### Mini 4WD PRO Racer's Box
