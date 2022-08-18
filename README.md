@@ -34,6 +34,7 @@ Racing Mini 4WD Series no.100\
 Item No: [18100](https://www.tamiya.com/english/products/18100/index.htm)
 
 **Futuristic form**
+
 This assembly kit creates a brand new Mini 4WD model - the Eleglitter - designed by Kota Nezu who has produced the Astralster and Raikiri.
 Its eye-catching, wide body with a low center of gravity is inspired by futuristic open-top formula racers.
 The front and rear fenders are removable if you want to lighten the car, and a driver figure is also included.
