@@ -8,7 +8,7 @@
 
 <img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-18089.jpg" />
 
-### Mini 4WD Pig Racer
+### Mini 4WD Pig Racer (Super-II Chassis)
 
 Racing Mini 4WD Series no.89\
 Item No: [18089](https://www.tamiya.com/english/products/18089/index.htm)
