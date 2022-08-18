@@ -6,6 +6,50 @@
   <img height="18" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> Mini 4WD
 </h2>
 
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-18089.jpg" />
+
+### Mini 4WD Pig Racer
+
+Racing Mini 4WD Series no.89\
+Item No: [18089](https://www.tamiya.com/english/products/18089/index.htm)
+
+**Oink Oink!**
+
+This is a Mini 4WD model assembly kit which creates a delightfully cute car called the Pig Racer.
+It comes with a pre-assembled and painted Pig Racer figure to attach with the included double-sided tape.
+A piggy-esque shad of pink is used on the open top Super Astute body, while stickers feature a host of logos, patterns and more.
+
+**Specifications**
+
+★ Length: 150mm\
+★ Width: 97mm\
+★ Height: 49mm\
+★ Easy snap-together assembly
+
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-18100.jpg" />
+
+### Eleglitter (VZ Chassis)
+
+Racing Mini 4WD Series no.100\
+Item No: [18100](https://www.tamiya.com/english/products/18100/index.htm)
+
+**Futuristic form**
+This assembly kit creates a brand new Mini 4WD model - the Eleglitter - designed by Kota Nezu who has produced the Astralster and Raikiri.
+Its eye-catching, wide body with a low center of gravity is inspired by futuristic open-top formula racers.
+The front and rear fenders are removable if you want to lighten the car, and a driver figure is also included.
+This model is based on the lightweight and compact VZ chassis and is suited to competing in Mini 4WD races.
+The small diameter low-profile wheels are 12-spoke and feature detachable aero discs to change the model's mood,
+and the color scheme of light blue and gray emphasizes the futuristic image.
+This cutting-edge design with its distinctive silhouette will raise excitement levels at Mini 4WD races.
+
+**Specifications**
+
+★ Length: 158mm\
+★ Width: 98mm\
+★ Height: 40mm\
+★ Includes motor\
+★ Easy snap-together assembly
+
 <img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-19438.jpg" />
 
 ### Ray Stinger Premium (Super-II Chassis)
