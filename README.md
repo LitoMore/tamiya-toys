@@ -194,6 +194,16 @@ Item No: [24065](https://www.tamiya.com/english/products/24065/index.htm)
   <img height="18" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> Tools & Paints
 </h2>
 
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-74035.jpg" />
+
+### Sharp Pointed Side Cutter for Plastic
+
+Tamiya Craft Tools Series no.35\
+Item No: [74035](https://www.tamiya.com/english/products/74035/index.htm)
+
+★ With thinner, sharper-pointed blades - without losing any of the superb cutting edge - than Item 74001,
+these plastic model side cutters come into their own used upon sprues with finer parts and less clearance, such as details on ship models.
+
 <img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-74039.jpg" />
 
 ### Safety Goggles
