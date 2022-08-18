@@ -191,8 +191,19 @@ Item No: [24065](https://www.tamiya.com/english/products/24065/index.htm)
 ★ Solid synthetic rubber tires give an extra level of detail.
 
 <h2>
-  <img height="18" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> Finishing Materials
+  <img height="18" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> Tools & Paints
 </h2>
+
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-74039.jpg" />
+
+### Safety Goggles
+
+Tamiya Craft Tools Series no.39\
+Item No: [74039](https://www.tamiya.com/english/products/74039/index.htm)
+
+★ These protective goggles prevent small foreign objects from entering the eyes of the user during model building and craft work.
+The wide shafts act as side guards for all-around protection.\
+★ Made from polycarbonate.
 
 <img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-87062.jpg" />
 
