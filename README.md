@@ -125,9 +125,23 @@ Stickers are included in the kit to recreate headlights and other design motifs.
 Grade-Up Parts Series no.318\
 Item No: [15318](https://www.tamiya.com/english/products/15318/index.htm)
 
+★ This is a high rev motor for super top speed, perfect for use on high-speed courses with long straights.\
+★ Features a stylish gray end bell and durable carbon brushes.\
 ★ Input voltage: 2.4-3.0V\
 ★ RPM: 20,700-27,200\
 ★ Current consumption: 2.8-3.8A
+
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15484.jpg" />
+
+### Torque-Tuned 2 Motor
+
+Grade-Up Parts Series no.484\
+Item No: [15484](https://www.tamiya.com/english/products/15484_15489/index.htm)
+
+★ Input voltage: 2.4-3.0V\
+★ Torque at recommended load: 1.6-2.0mN-m\
+★ RPM: 12,300-14,700\
+★ Current consumption: 1.7-2.0A
 
 <img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15485.jpg" />
 
@@ -137,6 +151,7 @@ Grade-Up Parts Series no.485\
 Item No: [15485](https://www.tamiya.com/english/products/15484_15489/index.htm)
 
 ★ Input voltage: 2.4-3.0V\
+★ Torque at recommended load: 1.2-1.5mN-m\
 ★ RPM: 13,400-15,200\
 ★ Current consumption: 1.6-2.0A
 
@@ -148,8 +163,18 @@ Grade-Up Parts Series no.486\
 Item No: [15486](https://www.tamiya.com/english/products/15484_15489/index.htm)
 
 ★ Input voltage: 2.4-3.0V\
+★ Torque at recommended load: 1.5-1.8mN-m\
 ★ RPM: 12,700-14,900\
 ★ Current consumption: 1.8-2.2A
+
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-153163.jpg" />
+
+### Mini 4WD Parts Case
+
+Grade-Up Parts Series no.163\
+Item No: [15163](https://www.tamiya.com/english/products/15163/index.htm)
+
+★ This handy case is divided internally into six compartments, with space for pinion gears, screws, nuts, ball bearings and other essentials!
 
 <img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15354.jpg" />
 
@@ -186,6 +211,26 @@ Item No: [15422](https://www.tamiya.com/english/products/15422pinion_puller/inde
 ★ By simply turning the screw, the 8T pinion gear can be easily removed from the motor shaft.\
 ★ Compatible with brass and resin pinion gears as well as any Type-130 motor.
 
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/kvtamiya-toys/main/media/item-67235_67238-japan-cup-2015.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-67235_67238.jpg" />
+
+### Tamiya T-Shirt Japan Cup 2015 (S)/(M)/(L)/(XL)
+
+Original Goods\
+Item Nos.: [67235-67238](https://www.tamiya.com/english/products/67235_67238/index.htm)
+
+These stylish T-shirts are released to commemorate the Mini 4WD Japan Cup 2015.
+They feature the world-famous Tamiya twin-star logo on the front,
+with the back showing a list of the Japan Cup 2015 event venues and dates.
+Choose from 4 sizes, all in 100% cotton
+
+|     Sizes      |  S   |  M   |  L   |  XL  |
+| :------------: | :--: | :--: | :--: | :--: |
+|     Length     | 66cm | 70cm | 75cm | 79cm |
+|   Body Width   | 49cm | 52cm | 55cm | 58cm |
+| Shoulder Width | 44cm | 47cm | 49cm | 52cm |
+| Sleeve Length  | 19cm | 20cm | 21cm | 22cm |
+
 <img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-94893.jpg" />
 
 ### Mini 4WD Oval Home Circuit (Two-Level Lane Change) (Red/White/Blue)
@@ -205,6 +250,19 @@ Fourteen sections are included and additional separately available Mini 4WD circ
 ★ Fence Height: 5cm\
 ★ Assembled Course Dimensions: 216cm × 120cm\
 ★ Made from soft plastic.
+
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-95514.jpg" />
+
+### Mini 4WD HG Maintenance Base (180x210mm)
+
+Mini 4WD Product\
+Item No: [95514](https://www.tamiya.com/english/products/95514/index.htm)
+
+★ This ultra-handy item will take care of multiple Mini 4WD pit needs, with separate trays that can be used for motor, gears, screws, nuts, shafts and more.\
+★ The central area is the perfect size for Tamiya HG Aluminum Setting Boards.\
+★ Basic measurements corresponding to Mini 4WD regulations are also noted on this product.\
+★ Dimensions: 210mm x 180mm.\
+★ Material: non-phthalate ATBC-PVC
 
 <img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-95619.jpg" />
 
