@@ -167,7 +167,7 @@ Item No: [15486](https://www.tamiya.com/english/products/15484_15489/index.htm)
 ★ RPM: 12,700-14,900\
 ★ Current consumption: 1.8-2.2A
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-153163.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15163.jpg" />
 
 ### Mini 4WD Parts Case
 
