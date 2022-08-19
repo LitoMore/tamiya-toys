@@ -211,7 +211,7 @@ Item No: [15422](https://www.tamiya.com/english/products/15422pinion_puller/inde
 ★ By simply turning the screw, the 8T pinion gear can be easily removed from the motor shaft.\
 ★ Compatible with brass and resin pinion gears as well as any Type-130 motor.
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/kvtamiya-toys/main/media/item-67235_67238-japan-cup-2015.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-67235_67238-japan-cup-2015.jpg" />
 <img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-67235_67238.jpg" />
 
 ### Tamiya T-Shirt Japan Cup 2015 (S)/(M)/(L)/(XL)
