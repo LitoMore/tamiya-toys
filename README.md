@@ -67,9 +67,9 @@ An N-02 nose unit and yellow fluorescent wheels with small diameter tires are al
 
 **Specifications**
 
-★ Length: 152mm
-★ Width: 92mm
-★ Double Shaft Motor Included
+★ Length: 152mm\
+★ Width: 92mm\
+★ Double Shaft Motor Included\
 ★ Snap-on easy assembly
 
 <img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-19438.jpg" />
