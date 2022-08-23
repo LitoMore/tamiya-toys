@@ -51,6 +51,27 @@ This cutting-edge design with its distinctive silhouette will raise excitement l
 ★ Includes motor\
 ★ Easy snap-together assembly
 
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-18631.jpg" />
+
+### Spin-Axe Mk.II (MS Chassis)
+
+Mini 4WD PRO Series no.31\
+Item No: [18631](https://www.tamiya.com/english/products/18631spin_axe/index.htm)
+
+**Tokichi's Aerodynamic Machine**
+
+This Mini 4WD assembly kit is one you will love racing. The centrally located double shaft motor effectively transmits power to all four wheels for optimum performance.
+The "One-Touch" three piece chassis requires no glue and is a breeze to assemble. You will enjoy the fast speed of this machine and its wide choice of settings.
+The glamorous form of Tokichi Mikune's Spin-Axe Mk.II, including the extended body side and edged canopy, have been reproduced on the excellent MS chassis.
+An N-02 nose unit and yellow fluorescent wheels with small diameter tires are also included in the kit.
+
+**Specifications**
+
+★ Length: 152mm
+★ Width: 92mm
+★ Double Shaft Motor Included
+★ Snap-on easy assembly
+
 <img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-19438.jpg" />
 
 ### Ray Stinger Premium (Super-II Chassis)
