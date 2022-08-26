@@ -72,6 +72,29 @@ An N-02 nose unit and yellow fluorescent wheels with small diameter tires are al
 ★ Double Shaft Motor Included\
 ★ Snap-on easy assembly
 
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-18647.jpg" />
+
+### Mini 4WD Starter Pack MA Power Spec (Blast Arrow) (MA Chassis)
+
+Mini 4WD PRO Series no.47\
+Item No: [18647](https://www.tamiya.com/english/products/18647/index.htm)
+
+**A Powerhouse**
+
+Get ready to race! This handy set combines the popular Blast Arrow Mini 4WD car kit with race spec option parts and basic tools.
+Fitting the option parts in the set turns the Blast Arrow into a swift racer suited to tracks that are loaded with corners.
+Included are a Torque-Tuned 2 motor, super hard tires (black), brake set, front under guard, mass dampers and FRP plates for the front and rear of your car.
+With relatively few spacers and screws, assembly is kept simple. The Blast Arrow body is molded in white and paired with the MA chassis in black.
+Comes with a 3.7:1 high speed gear set.
+
+**Specifications**
+
+★ Length: 155mm\
+★ Width: 104mm\
+★ Height: 41mm\
+★ Includes double-shaft motor\
+★ Easy snap-together assembly
+
 <img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-19438.jpg" />
 
 ### Ray Stinger Premium (Super-II Chassis)
