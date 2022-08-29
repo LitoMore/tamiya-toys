@@ -211,6 +211,15 @@ Item No: [15486](https://www.tamiya.com/english/products/15484_15489/index.htm)
 ★ RPM: 12,700-14,900\
 ★ Current consumption: 1.8-2.2A
 
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-10307.jpg" />
+
+### Mini 4WD 2mm Spring Washer (20pcs.)
+
+AO Parts\
+Item No: [10307](https://www.tamiyausa.com/shop/performance-parts/jr-2mm-spring-washer/)
+
+★ These are spring washers for use in Mini 4WD cars. Contains 2mm Spring Washers x20 Compatible with Mini 4WD & Mini 4WD PRO cars.
+
 <img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15163.jpg" />
 
 ### Mini 4WD Parts Case
@@ -232,6 +241,16 @@ Item No: [15354](https://www.tamiya.com/english/products/15354/index.htm)
 ★ Dividers can be moved depending upon the size of the parts you carry.\
 ★ The bottom section can hold up to three fully hopped-up Mini 4WD cars.\
 ★ Dimensions: 355mm x 205mm x 145mm
+
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15386.jpg" />
+
+### Stabilizer Ball Cap (Bright)
+
+Grade-Up Parts Series no.386\
+Item No: [15386](https://www.tamiya.com/english/products/15386/index.htm)
+
+★ Use these components with varying lengths of screws for your own customized setup.\
+★ The set includes four each of five cheery colors: blue, green, yellow, orange and red. ★Use the included rubber tubing to help attach them.
 
 <img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15420.jpg" />
 
@@ -255,6 +274,60 @@ Item No: [15422](https://www.tamiya.com/english/products/15422pinion_puller/inde
 ★ By simply turning the screw, the 8T pinion gear can be easily removed from the motor shaft.\
 ★ Compatible with brass and resin pinion gears as well as any Type-130 motor.
 
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15429.jpg" />
+
+### Mini 4WD PRO High Speed EX Gear Set (for MS Chassis/Gear Ratio 3.7:1)
+
+Grade-Up Parts Series bo.429\
+Item No: [15429](https://www.tamiya.com/english/products/15429ex_gear/index.htm)
+
+★ This gear set offers a 3.7:1 ratio for increased acceleration performance compared to Mini 4WD PRO Super Speed Gear Set (for MS Chassis),
+which has the ratio of 3.5:1, giving racers another option to tune their machines.
+
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15441.jpg" />
+
+### Brake Sponge Set (3 Types)
+
+Grade-Up Parts Series no.441\
+Item No: [15441](https://www.tamiya.com/english/products/15441brakesponge/index.htm)
+
+★ These brake parts help prevent the car from flying off the track from excessive speed during jumps.\
+★ Set includes three types of brake sponge sheets, each offering a different amount of friction to enable customization of your machine to different track layouts.
+
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15451.jpg" />
+
+### FRP Wide Front Plate (for AR Chassis)
+
+Grade-Up Parts Series no.451\
+Item No: [15451](https://www.tamiya.com/english/products/15451ar_frp_wide_f/index.htm)
+
+★ This FRP plate is specially designed for the AR chassis and features holes to enable installation of 9mm, 11mm, 13mm, and 19mm rollers within the standard Mini 4WD race regulations.\
+★ Screws and roller stoppers also included.
+
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15452.jpg" />
+
+### FRP Wide Rear Plate (for AR Chassis)
+
+Grade-Up Parts Series no.452\
+Item No: [15452](https://www.tamiya.com/English/products/15452ar_frp_wide_r/index.htm)
+
+★ This FRP plate enables installation of 9mm, 11mm, 13mm, 17mm, and 19mm rollers within the standard Mini 4WD race regulations.\
+★ Use with Item 15451 FRP Wide Front Plate (for AR Chassis) to achieve more stable cornering performance.
+
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15459.jpg" />
+
+### Side Mass Damper Set (for AR Chassis)
+
+Grade-Up Parts Series no.459\
+Item No: [15459](https://www.tamiya.com/english/products/15459/index.htm)
+
+★ Boost your car's stability with this set, which includes two FRP side plates and four mass dampers. ★Both bowl and cylinder shape mass dampers are included. ★Bowl weights weight 3.4g each, and cylinders 4.2g each.
+
+**Compatible Chassis**
+
+★ FM-A, Super XX, AR & MA Chassis cars.\
+★ Some chassis/bodies may require modification.
+
 <img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-67235_67238.jpg" />
 
 ### Tamiya T-Shirt Japan Cup 2015 (S)/(M)/(L)/(XL)
@@ -273,6 +346,16 @@ Choose from 4 sizes, all in 100% cotton
 |   Body Width   | 49cm | 52cm | 55cm | 58cm |
 | Shoulder Width | 44cm | 47cm | 49cm | 52cm |
 | Sleeve Length  | 19cm | 20cm | 21cm | 22cm |
+
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-94385.jpg" />
+
+### 2mm Screw/Lock Nut Set
+
+AO Parts\
+Item No: [94385](https://www.tamiya.com/japan/products/94385/index.html)
+
+★ It can be used for a wide range of purposes such as remodeling Mini 4WD\
+★ 2x15mm, 2x30mm round screws x 4 each, 2mm nut, nylon nut, washer, spring washer x 4 each, roller support, aluminum color x 4 each
 
 <img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-94893.jpg" />
 
