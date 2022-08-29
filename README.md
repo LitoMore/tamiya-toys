@@ -159,7 +159,7 @@ Stickers are included in the kit to recreate headlights and other design motifs.
 ★ Easy snap-together assembly
 
 <h2>
-  <img height="18" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> Mini 4WD Accessories
+  <img height="18" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> Mini 4WD Motors
 </h2>
 
 <img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15318.jpg" />
@@ -210,6 +210,10 @@ Item No: [15486](https://www.tamiya.com/english/products/15484_15489/index.htm)
 ★ Torque at recommended load: 1.5-1.8mN-m\
 ★ RPM: 12,700-14,900\
 ★ Current consumption: 1.8-2.2A
+
+<h2>
+  <img height="18" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> Mini 4WD Accessories
+</h2>
 
 <img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-10307.jpg" />
 
