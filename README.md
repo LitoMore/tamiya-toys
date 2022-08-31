@@ -211,6 +211,18 @@ Item No: [15486](https://www.tamiya.com/english/products/15484_15489/index.htm)
 ★ RPM: 12,700-14,900\
 ★ Current consumption: 1.8-2.2A
 
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15487.jpg" />
+
+### Torque-Tuned 2 Motor PRO
+
+Grade-Up Parts Series no.487\
+Item No: [15487](https://www.tamiya.com/english/products/15484_15489/index.htm)
+
+★ Input voltage: 2.4-3.0V\
+★ Torque at recommended load: 1.7-2.1mN-m\
+★ RPM: 12,200-14,400\
+★ Current consumption: 1.7-2.0A
+
 <h2>
   <img height="18" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> Mini 4WD Accessories
 </h2>
