@@ -6,7 +6,7 @@
   <img height="18" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> Mini 4WD
 </h2>
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-18089.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-18089.webp" />
 
 ### Mini 4WD Pig Racer (Super-II Chassis)
 
@@ -26,7 +26,7 @@ A piggy-esque shad of pink is used on the open top Super Astute body, while stic
 ★ Height: 49mm\
 ★ Easy snap-together assembly
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-18100.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-18100.webp" />
 
 ### Eleglitter (VZ Chassis)
 
@@ -51,7 +51,7 @@ This cutting-edge design with its distinctive silhouette will raise excitement l
 ★ Includes motor\
 ★ Easy snap-together assembly
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-18631.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-18631.webp" />
 
 ### Spin-Axe Mk.II (MS Chassis)
 
@@ -72,7 +72,7 @@ An N-02 nose unit and yellow fluorescent wheels with small diameter tires are al
 ★ Double Shaft Motor Included\
 ★ Snap-on easy assembly
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-18647.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-18647.webp" />
 
 ### Mini 4WD Starter Pack MA Power Spec (Blast Arrow) (MA Chassis)
 
@@ -95,7 +95,7 @@ Comes with a 3.7:1 high speed gear set.
 ★ Includes double-shaft motor\
 ★ Easy snap-together assembly
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-19438.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-19438.webp" />
 
 ### Ray Stinger Premium (Super-II Chassis)
 
@@ -115,7 +115,7 @@ The silver scheme is accented perfectly by metallic stickers inspired by the des
 ★ Includes motor\
 ★ Snap-together easy assembly
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-19447.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-19447.webp" />
 
 ### Beak Stinger G (AR Chassis)
 
@@ -136,7 +136,7 @@ A silver ABS resin body comes with metallic stickers for decoration.
 ★ Includes motor\
 ★ Easy snap-together assembly
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-19452.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-19452.webp" />
 
 ### Brocken Gigant Premium (FM-A Chassis)
 
@@ -162,7 +162,7 @@ Stickers are included in the kit to recreate headlights and other design motifs.
   <img height="18" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> Mini 4WD Motors
 </h2>
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15318.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15318.webp" />
 
 ### Sprint-Dash Motor
 
@@ -175,7 +175,7 @@ Item No: [15318](https://www.tamiya.com/english/products/15318/index.htm)
 ★ RPM: 20,700-27,200\
 ★ Current consumption: 2.8-3.8A
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15484.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15484.webp" />
 
 ### Torque-Tuned 2 Motor
 
@@ -187,7 +187,7 @@ Item No: [15484](https://www.tamiya.com/english/products/15484_15489/index.htm)
 ★ RPM: 12,300-14,700\
 ★ Current consumption: 1.7-2.0A
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15485.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15485.webp" />
 
 ### Rev-Tuned 2 Motor
 
@@ -199,7 +199,7 @@ Item No: [15485](https://www.tamiya.com/english/products/15484_15489/index.htm)
 ★ RPM: 13,400-15,200\
 ★ Current consumption: 1.6-2.0A
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15486.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15486.webp" />
 
 ### Atomic-Tuned 2 Motor
 
@@ -211,7 +211,7 @@ Item No: [15486](https://www.tamiya.com/english/products/15484_15489/index.htm)
 ★ RPM: 12,700-14,900\
 ★ Current consumption: 1.8-2.2A
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15487.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15487.webp" />
 
 ### Torque-Tuned 2 Motor PRO
 
@@ -227,7 +227,7 @@ Item No: [15487](https://www.tamiya.com/english/products/15484_15489/index.htm)
   <img height="18" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> Mini 4WD Accessories
 </h2>
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-10307.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-10307.webp" />
 
 ### Mini 4WD 2mm Spring Washer (20pcs.)
 
@@ -236,7 +236,7 @@ Item No: [10307](https://www.tamiyausa.com/shop/performance-parts/jr-2mm-spring-
 
 ★ These are spring washers for use in Mini 4WD cars. Contains 2mm Spring Washers x20 Compatible with Mini 4WD & Mini 4WD PRO cars.
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15163.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15163.webp" />
 
 ### Mini 4WD Parts Case
 
@@ -245,7 +245,7 @@ Item No: [15163](https://www.tamiya.com/english/products/15163/index.htm)
 
 ★ This handy case is divided internally into six compartments, with space for pinion gears, screws, nuts, ball bearings and other essentials!
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15354.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15354.webp" />
 
 ### Mini 4WD PRO Racer's Box
 
@@ -258,7 +258,7 @@ Item No: [15354](https://www.tamiya.com/english/products/15354/index.htm)
 ★ The bottom section can hold up to three fully hopped-up Mini 4WD cars.\
 ★ Dimensions: 355mm x 205mm x 145mm
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15386.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15386.webp" />
 
 ### Stabilizer Ball Cap (Bright)
 
@@ -268,7 +268,7 @@ Item No: [15386](https://www.tamiya.com/english/products/15386/index.htm)
 ★ Use these components with varying lengths of screws for your own customized setup.\
 ★ The set includes four each of five cheery colors: blue, green, yellow, orange and red. ★Use the included rubber tubing to help attach them.
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15420.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15420.webp" />
 
 ### Neochamp Mini 4WD Ni-MH Battery (2pcs.)
 
@@ -280,7 +280,7 @@ Minimal self-discharging enables long-lasting battery life.
 
 _※ Battery life period may change according to usage conditions._
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15422.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15422.webp" />
 
 ### Mini 4WD Pinion Puller (Blue)
 
@@ -290,7 +290,7 @@ Item No: [15422](https://www.tamiya.com/english/products/15422pinion_puller/inde
 ★ By simply turning the screw, the 8T pinion gear can be easily removed from the motor shaft.\
 ★ Compatible with brass and resin pinion gears as well as any Type-130 motor.
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15429.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15429.webp" />
 
 ### Mini 4WD PRO High Speed EX Gear Set (for MS Chassis/Gear Ratio 3.7:1)
 
@@ -300,7 +300,7 @@ Item No: [15429](https://www.tamiya.com/english/products/15429ex_gear/index.htm)
 ★ This gear set offers a 3.7:1 ratio for increased acceleration performance compared to Mini 4WD PRO Super Speed Gear Set (for MS Chassis),
 which has the ratio of 3.5:1, giving racers another option to tune their machines.
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15441.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15441.webp" />
 
 ### Brake Sponge Set (3 Types)
 
@@ -310,7 +310,7 @@ Item No: [15441](https://www.tamiya.com/english/products/15441brakesponge/index.
 ★ These brake parts help prevent the car from flying off the track from excessive speed during jumps.\
 ★ Set includes three types of brake sponge sheets, each offering a different amount of friction to enable customization of your machine to different track layouts.
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15451.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15451.webp" />
 
 ### FRP Wide Front Plate (for AR Chassis)
 
@@ -320,7 +320,7 @@ Item No: [15451](https://www.tamiya.com/english/products/15451ar_frp_wide_f/inde
 ★ This FRP plate is specially designed for the AR chassis and features holes to enable installation of 9mm, 11mm, 13mm, and 19mm rollers within the standard Mini 4WD race regulations.\
 ★ Screws and roller stoppers also included.
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15452.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15452.webp" />
 
 ### FRP Wide Rear Plate (for AR Chassis)
 
@@ -330,7 +330,7 @@ Item No: [15452](https://www.tamiya.com/English/products/15452ar_frp_wide_r/inde
 ★ This FRP plate enables installation of 9mm, 11mm, 13mm, 17mm, and 19mm rollers within the standard Mini 4WD race regulations.\
 ★ Use with Item 15451 FRP Wide Front Plate (for AR Chassis) to achieve more stable cornering performance.
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15459.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-15459.webp" />
 
 ### Side Mass Damper Set (for AR Chassis)
 
@@ -344,7 +344,7 @@ Item No: [15459](https://www.tamiya.com/english/products/15459/index.htm)
 ★ FM-A, Super XX, AR & MA Chassis cars.\
 ★ Some chassis/bodies may require modification.
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-67235_67238.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-67235_67238.webp" />
 
 ### Tamiya T-Shirt Japan Cup 2015 (S)/(M)/(L)/(XL)
 
@@ -363,7 +363,7 @@ Choose from 4 sizes, all in 100% cotton
 | Shoulder Width | 44cm | 47cm | 49cm | 52cm |
 | Sleeve Length  | 19cm | 20cm | 21cm | 22cm |
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-94385.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-94385.webp" />
 
 ### 2mm Screw/Lock Nut Set
 
@@ -373,7 +373,7 @@ Item No: [94385](https://www.tamiya.com/japan/products/94385/index.html)
 ★ It can be used for a wide range of purposes such as remodeling Mini 4WD\
 ★ 2x15mm, 2x30mm round screws x 4 each, 2mm nut, nylon nut, washer, spring washer x 4 each, roller support, aluminum color x 4 each
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-94893.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-94893.webp" />
 
 ### Mini 4WD Oval Home Circuit (Two-Level Lane Change) (Red/White/Blue)
 
@@ -393,7 +393,7 @@ Fourteen sections are included and additional separately available Mini 4WD circ
 ★ Assembled Course Dimensions: 216cm × 120cm\
 ★ Made from soft plastic.
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-95514.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-95514.webp" />
 
 ### Mini 4WD HG Maintenance Base (180x210mm)
 
@@ -406,7 +406,7 @@ Item No: [95514](https://www.tamiya.com/english/products/95514/index.htm)
 ★ Dimensions: 210mm x 180mm.\
 ★ Material: non-phthalate ATBC-PVC
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-95619.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-95619.webp" />
 
 ### Mini 4WD Car Catcher TMAC 2021 Black
 
@@ -422,7 +422,7 @@ Item No: [95619](https://tamiya.hk/product/tamiya-95619-mini-4wd-car-catcher-tma
   <img height="18" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> Scale Models
 </h2>
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-24065.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-24065.webp" />
 
 ### Porsche 959
 
@@ -439,7 +439,7 @@ Item No: [24065](https://www.tamiya.com/english/products/24065/index.htm)
   <img height="18" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/tamiya-logo.svg" /> Tools & Paints
 </h2>
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-74035.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-74035.webp" />
 
 ### Sharp Pointed Side Cutter for Plastic
 
@@ -449,7 +449,7 @@ Item No: [74035](https://www.tamiya.com/english/products/74035/index.htm)
 ★ With thinner, sharper-pointed blades - without losing any of the superb cutting edge - than Item 74001,
 these plastic model side cutters come into their own used upon sprues with finer parts and less clearance, such as details on ship models.
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-74039.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-74039.webp" />
 
 ### Safety Goggles
 
@@ -460,7 +460,7 @@ Item No: [74039](https://www.tamiya.com/english/products/74039/index.htm)
 The wide shafts act as side guards for all-around protection.\
 ★ Made from polycarbonate.
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-87062.jpg" />
+<img align="right" height="100" src="https://raw.githubusercontent.com/LitoMore/tamiya-toys/main/media/item-87062.webp" />
 
 ### Tamiya CA Cement (Quick Type)
 
